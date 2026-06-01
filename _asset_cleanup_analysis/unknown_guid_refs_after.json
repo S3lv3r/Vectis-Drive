@@ -1,0 +1,27 @@
+﻿[
+    {
+        "Guid":  "0000000000000000e000000000000000",
+        "Count":  39,
+        "Files":  "Assets/Scenes/City.unity; Assets/Scenes/MainMenu.unity; Assets/Scenes/Taller.unity"
+    },
+    {
+        "Guid":  "b840a9ebc1e6fda4fa4b7b33a825de9f",
+        "Count":  1,
+        "Files":  "Assets/Camiones/Camion 3 Ejes/Texturas/Interior Cab/Metal_Black_Interior_Cab.mat"
+    },
+    {
+        "Guid":  "67c97c4a9475a47c7bc93014a5e49f2c",
+        "Count":  1,
+        "Files":  "Assets/Loading Games/Toon City Pack/Models/Vehicles/Civil Vehicles/civil-truck-B.fbx.meta"
+    },
+    {
+        "Guid":  "95db659448cd93f4496522d83055cb07",
+        "Count":  1,
+        "Files":  "Assets/Scenes/MainMenu.unity"
+    },
+    {
+        "Guid":  "ccc814ffccd9d41ccb9f7cefd692ef5b",
+        "Count":  1,
+        "Files":  "Assets/Loading Games/Toon City Pack/Models/Vehicles/Government Vehicles/ambulance.fbx.meta"
+    }
+]
